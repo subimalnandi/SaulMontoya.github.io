@@ -1,12 +1,12 @@
 
-var arr = 
+var arr =
 [
 {
 "titulosmall": "Curso de",
 "titulolarge": "Python en Hidrología",
 "lugar": "Lima",
 "fecha": "10-12 Jun",
-"figurafondo": "http://saulmontoya.github.io/banners/bannermain/gis.png",
+"figurafondo": "http://saulmontoya.github.io/banners/bannermain/python.png",
 "url": "http://gidahatari.com/cu-dt/curso-de-python-en-hidrologia-lima-10-12-junio-2016",
 },
 {
@@ -47,8 +47,3 @@ var arr =
     document.getElementById("cufigurafondo").innerHTML = '<img src=' + fig_fon + ' class="cub-imgcur cub-gen-imgcur-animation" >';
     document.getElementById("cucontenidolink").innerHTML = '<a href=' + lin_url + ' style="text-decoration: none"><span class="cub-div-fcontent cub-contbold">Contenido</span></a>'
     document.getElementById("cuinscripcionlink").innerHTML = '<a href=' + lin_url + ' style="text-decoration: none"><span class="cub-div-fcontent cub-contbold">Inscripción</span></a>'
-
-
-
-
-
