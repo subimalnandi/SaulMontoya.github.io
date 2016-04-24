@@ -3,18 +3,26 @@ var arr =
 [
 {
 "titulosmall": "Curso de",
+"titulolarge": "Python en Hidrología",
+"lugar": "Lima",
+"fecha": "10-12 Jun",
+"figurafondo": "http://saulmontoya.github.io/banners/bannermain/gis.png",
+"url": "http://gidahatari.com/cu-dt/curso-de-python-en-hidrologia-lima-10-12-junio-2016",
+},
+{
+"titulosmall": "Curso de",
 "titulolarge": "SIG en la Gestión del Agua",
-"lugar": "Cuzco",
-"fecha": "15-17 Abr",
-"figurafondo": "http://akamtec.com/banner/bannercourses/gis.png",
-"url": "http://gidahatari.com/cu-dt/curso-de-sig-en-la-gestion-del-agua-cusco-15-17-abr-2016",
+"lugar": "Lima",
+"fecha": "8-10 Jul",
+"figurafondo": "http://saulmontoya.github.io/banners/bannermain/gis.png",
+"url": "http://gidahatari.com/cu-dt/curso-de-sig-en-la-gestion-del-agua-lima-8-10-jul-2016",
 },
 {
 "titulosmall": "Curso de",
 "titulolarge": "Modelamiento de Acuíferos con MODFLOW y Model Muse",
 "lugar": "Lima",
-"fecha": "13-15 May",
-"figurafondo": "http://akamtec.com/banner/bannercourses/modelamiento.png",
+"fecha": "20-22 May",
+"figurafondo": "http://saulmontoya.github.io/banners/bannermain/modelamiento.png",
 "url": "http://gidahatari.com/cu-dt/curso-de-modelamiento-de-acuiferos-con-modflow-y-model-muse-lima-13-15-may-2016"
 }
 ];
