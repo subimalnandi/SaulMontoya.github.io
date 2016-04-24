@@ -1,5 +1,5 @@
 
-var arr =
+var arr = 
 [
 {
 "titulosmall": "Curso de",
@@ -39,3 +39,8 @@ var arr =
     document.getElementById("cufigurafondo").innerHTML = '<img src=' + fig_fon + ' class="cub-imgcur cub-gen-imgcur-animation" >';
     document.getElementById("cucontenidolink").innerHTML = '<a href=' + lin_url + ' style="text-decoration: none"><span class="cub-div-fcontent cub-contbold">Contenido</span></a>'
     document.getElementById("cuinscripcionlink").innerHTML = '<a href=' + lin_url + ' style="text-decoration: none"><span class="cub-div-fcontent cub-contbold">Inscripción</span></a>'
+
+
+
+
+
