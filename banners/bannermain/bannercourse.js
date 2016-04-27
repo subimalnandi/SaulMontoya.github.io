@@ -9,6 +9,13 @@ var arr =
 "figurafondo": "http://saulmontoya.github.io/banners/bannermain/python.png",
 "url": "http://gidahatari.com/cu-dt/curso-de-python-en-hidrologia-lima-10-12-junio-2016",
 },
+"titulosmall": "Webminar de",
+"titulolarge": "Python Básico",
+"lugar": "Online",
+"fecha": "18-19 May",
+"figurafondo": "http://saulmontoya.github.io/banners/bannermain/python.png",
+"url": "http://gidahatari.com/ht-es/taller-online-de-python-basico",
+},
 {
 "titulosmall": "Curso de",
 "titulolarge": "SIG en la Gestión del Agua",
