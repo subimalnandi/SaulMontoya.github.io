@@ -25,7 +25,7 @@ var moduleName = 'js-intro',
 		'img/HB6.png',
 		'img/HB7.png',
 		'img/HB8.png',
-		'img/HB9.png',		
+		'img/HB9.png',
 	],
 
 	coords = [
