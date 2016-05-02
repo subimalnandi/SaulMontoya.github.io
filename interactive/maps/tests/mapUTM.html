@@ -47,12 +47,12 @@ svg.append("path")
     .attr("class", "graticule")
     .attr("d", path);
 
-d3.json("world-50m.json", function(error, world) {
+d3.json("http://saulmontoya.github.io/interactive/maps/tests/ANP_2016.json", function(error, world) {
   if (error) throw error;
 
   svg.insert("path", ".graticule")
       .datum(topojson.feature(world, world.objects.land))
-      .attr("class", "land")
+      .attr("class", "FeatureCollection")
       .attr("d", path);
 
   svg.insert("path", ".graticule")
