@@ -2,11 +2,16 @@
 <meta charset="utf-8">
 <style>
 
-.subunit.SCT { fill: #ddc; }
-.subunit.WLS { fill: #cdd; }
-.subunit.NIR { fill: #cdc; }
-.subunit.ENG { fill: #dcd; }
-.subunit.IRL { fill: #abc; }
+.paises.PER { fill: #ddc; }
+.paises.ECD { fill: #ced; }
+.paises.COL { fill: #cdc; }
+.paises.VEN { fill: #dcd; }
+.paises.BRA { fill: #abc; }
+.paises.BOL { fill: #cdc; }
+.paises.PRY { fill: #dcd; }
+.paises.URY { fill: #abc; }
+.paises.ARG { fill: #ded; }
+.paises.CHX { fill: #abc; }
 
 .subunit-label {
   fill: #777;
@@ -39,11 +44,11 @@ var width = 960,
     height = 1160;
 
 var projection = d3.geo.albers()
-    .center([0, 55.4])
-    .rotate([4.4, 0])
-    .parallels([50, 60])
-    .scale(1200 * 5)
-    .translate([width / 2, height / 2]);
+    .center([-70, 0])
+    .rotate([0, 0])
+    .parallels([-70, -10])
+    .scale(200 * 5)
+    .translate([width / 5, height / 5]);
 
 var path = d3.geo.path()
     .projection(projection);
@@ -52,40 +57,40 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("http://saulmontoya.github.io/interactive/maps/tests/uk.json", function(error, uk) {
+d3.json("http://saulmontoya.github.io/interactive/maps/tests/sudamerica.json", function(error, uk) {
   if (error) return console.error(error);
 
-  var subunits = topojson.feature(uk, uk.objects.subunits),
-  places = topojson.feature(uk, uk.objects.places);
+  var paises = topojson.feature(uk, uk.objects.paises),
+  places = topojson.feature(uk, uk.objects.lugares);
 
-  svg.selectAll(".subunit")
-    .data(subunits.features)
-    .enter().append("path")
-    .attr("class", function(d) { return "subunit " + d.id; })
-    .attr("d", path);
+svg.selectAll(".paises")
+  .data(paises.features)
+  .enter().append("path")
+  .attr("class", function(d) { return "paises " + d.id; })
+  .attr("d", path);
 
-  svg.selectAll(".subunit-label")
-    .data(subunits.features)
-    .enter().append("text")
-    .attr("class", function(d) { return "subunit-label " + d.id; })
-    .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
-    .attr("dy", ".35em")
-    .text(function(d) { return d.properties.name; });
+svg.selectAll(".subunit-label")
+  .data(paises.features)
+  .enter().append("text")
+  .attr("class", function(d) { return "subunit-label " + d.id; })
+  .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
+  .attr("dy", ".35em")
+  .text(function(d) { return d.properties.name; });
 
 svg.append("path")
-    .datum(places)
-    .attr("d", path)
-    .attr("class", "place");
+  .datum(places)
+  .attr("d", path)
+  .attr("class", "place");
 
 svg.selectAll(".place-label")
-    .data(places.features)
-    .enter().append("text")
-    .attr("class", "place-label")
-    .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
-    .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
-    .attr("dy", ".35em")
-    .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; })
-    .text(function(d) { return d.properties.name; });
+  .data(places.features)
+  .enter().append("text")
+  .attr("class", "place-label")
+  .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+  .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
+  .attr("dy", ".35em")
+  .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; })
+  .text(function(d) { return d.properties.name; });
 });
 
 /* JavaScript goes here. */
