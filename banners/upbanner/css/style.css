@@ -63,9 +63,10 @@
 .canvas .title {
   width: 640px;
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  font-size: 94px;
+  /*font-size: 94px;*/
+  font-size: 40px;
   font-weight: bold;
-  line-height: 79px;
+  line-height: 50px;
   text-align: left;
   text-transform: uppercase;
 }
@@ -82,4 +83,19 @@
   /* Internet Explorer/Edge */
   user-select: none;
   /* Non-prefixed version, currently not supported by any browser */
+}
+
+textoenlace {
+  align-content: center;
+  text-align: center;
+}
+
+.canvas .enlace {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  /*width: 1024px;*/
+  padding: 0 60px;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
