@@ -2,7 +2,9 @@
 
 var i = Math.floor((Math.random() * arr.length));
 
-console.log(i);
+//console.log(i);
+
+document.body.innerHTML = document.body.innerHTML.replace('%%Linea1%%', arr[i]['title']);
 
 var moduleName = 'js-intro',
 
