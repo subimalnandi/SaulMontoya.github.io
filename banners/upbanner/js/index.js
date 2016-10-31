@@ -1,7 +1,7 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/cu-dt/curso-online-de-manejo-e-interpretacion-de-datos-de-qumica-del-agua", "title": "Curso presencial y online de Manejo e Interpretaci\u00f3n de Datos de Qu\u00edmica del Agua. 5, 7, 9, 13, 15 y 16 Dic 2016"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-de-modelamiento-de-acuiferos-con-modflow-y-model-muse-lima-16-18-dic-2016", "title": "Curso presencial y online de Modelamiento de Acu\u00edferos con MODFLOW y Model Muse, 16-18 Dic 2016"}
+{"title": "Curso presencial y online de Manejo e Interpretaci\u00f3n de Datos de Qu\u00edmica del Agua. 5, 7, 9, 13, 15 y 16 Dic 2016", "link": "http://www.gidahatari.com/cu-dt/curso-online-de-manejo-e-interpretacion-de-datos-de-qumica-del-agua"},
+{"title": "Curso presencial y online de Modelamiento de Acu\u00edferos con MODFLOW y Model Muse, 16-18 Dic 2016", "link": "http://www.gidahatari.com/cu-dt/curso-de-modelamiento-de-acuiferos-con-modflow-y-model-muse-lima-16-18-dic-2016"}
 ]
 
 var i = Math.floor((Math.random() * arr.length));
