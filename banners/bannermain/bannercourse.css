@@ -2,6 +2,7 @@
     height: 500px;
     margin: 0px;
     padding: 0px;
+    border: 0px;
     background-image: -webkit-radial-gradient(ellipse closest-side, rgb(55, 125, 175) 0%, rgb(65, 135, 185) 100%);
     background-image: -moz-radial-gradient(ellipse closest-side, rgb(55, 125, 175) 0%, rgb(65, 135, 185) 100%);
     background-image: radial-gradient(ellipse closest-side, rgb(55, 125, 175) 0%, rgb(65, 135, 185) 100%);
