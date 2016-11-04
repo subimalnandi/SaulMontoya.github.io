@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .cub-body {
     height: 500px;
     margin: 0px;
