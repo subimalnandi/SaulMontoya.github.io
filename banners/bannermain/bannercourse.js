@@ -9,7 +9,7 @@ var arr =
     var tit_large = "";
     var c_lug = "";
     var c_fec = "";
-    var fig_fon = Math.floor((Math.random() * 8)) + '.jpg';
+    var fig_fon = Math.floor((Math.random() * 8)) + '.png';
     console.log(fig_fon);
     var lin_url = "";
     var i = Math.floor((Math.random() * arr.length));
