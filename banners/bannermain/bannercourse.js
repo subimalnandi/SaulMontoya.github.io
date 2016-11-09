@@ -1,10 +1,10 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/ht-es/taller-online-de-introduccion-al-python", "title": "Taller Online de Introducci\u00f3n al Python - 11  de Noviembre 2016"},
-{"link": "http://www.gidahatari.com/ht-es/taller-de-campo-de-geofisica-tomografias-electricas-resistivas", "title": "Taller de campo de Geof\u00edsica - Tomograf\u00edas el\u00e9ctricas resistivas, Lima 17 de Nov 2016"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-online-de-manejo-e-interpretacion-de-datos-de-qumica-del-agua", "title": "Curso presencial y online de Manejo e Interpretaci\u00f3n de Datos de Qu\u00edmica del Agua. 5, 7, 9, 13, 14 y 15 Dic 2016"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-de-modelamiento-de-acuiferos-con-modflow-y-model-muse-lima-16-18-dic-2016", "title": "Curso presencial y online de Modelamiento de Acu\u00edferos con MODFLOW y Model Muse, 16-18 Dic 2016"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"}
+{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"},
+{"link": "http://www.gidahatari.com/ht-es/taller-online-de-introduccion-al-python", "title": "Taller Online de Introducci\u00f3n al Python - 11  de Noviembre 2016"},
+{"link": "http://www.gidahatari.com/ht-es/taller-de-campo-de-geofisica-tomografias-electricas-resistivas", "title": "Taller de campo de Geof\u00edsica - Tomograf\u00edas el\u00e9ctricas resistivas, Lima 17 de Nov 2016"}
 ]
 
     var tit_small = "";
