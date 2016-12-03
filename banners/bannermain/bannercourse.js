@@ -1,8 +1,7 @@
 var arr = 
 [
 {"link": "http://www.gidahatari.com/cu-dt/curso-online-de-manejo-e-interpretacion-de-datos-de-qumica-del-agua", "title": "Curso presencial y virtual de Manejo e Interpretaci\u00f3n de Datos de Qu\u00edmica del Agua. 5, 7, 9, 13, 14 y 15 Dic 2016"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-acuferos-con-modflow-y-model-muse-23-25-27-ene-30-01-y-03-feb-2017", "title": "Curso presencial y online de Modelamiento de Acu\u00edferos con MODFLOW y Model Muse, 23, 25 , 27  Ene - 30, 01 y 03  Feb 2017"}
+{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"}
 ]
 
     var tit_small = "";
