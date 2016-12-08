@@ -1,7 +1,7 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/ht-es/taller-de-geofisica-de-campo-para-evaluacion-de-la-intrusion-salina", "title": "Taller de Geof\u00edsica de Campo para Evaluaci\u00f3n de la Intrusi\u00f3n Salina"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"}
+{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"},
+{"link": "http://www.gidahatari.com/ht-es/taller-de-geofisica-de-campo-para-evaluacion-de-la-intrusion-salina", "title": "Taller de Geof\u00edsica de Campo para Evaluaci\u00f3n de la Intrusi\u00f3n Salina"}
 ]
 
     var tit_small = "";
