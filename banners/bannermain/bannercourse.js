@@ -1,6 +1,5 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/ht-es/taller-online-y-presencial-de-elaboracion-de-planos-en-qgis", "title": "Taller Online y Presencial de Elaboraci\u00f3n de Planos en QGIS - 23 Dic 2016"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelacion-hidrologica-en-la-gestion-de-recursos-hidricos-con-hec-hms-y-hec-ressim", "title": "Curso presencial y online de Modelamiento Hidrol\u00f3gico en la Gesti\u00f3n del Agua con HEC-HMS y HEC-ResSim. 13-15 Ene 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-procesamiento-de-imagenes-de-drone-con-opendronemap-y-qgis", "title": "Curso presencial y online de Procesamiento de Im\u00e1genes de Drone con OpenDroneMap y QGIS. 17-20 Ene 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-acuferos-con-modflow-y-model-muse-23-25-27-ene-30-01-y-03-feb-2017", "title": "Curso presencial y online de Modelamiento de Acu\u00edferos con MODFLOW y Model Muse, 23, 25 , 27  Ene - 30, 01 y 03  Feb 2017"}
