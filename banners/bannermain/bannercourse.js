@@ -1,12 +1,9 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-zona-de-mezcla-con-openfoam", "title": "Curso presencial y online de Modelamiento de Zona de Mezcla con OpenFoam, 13, 15, 16, 17 Feb 2017"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-python-basico", "title": "Curso presencial y online de Python B\u00e1sico, 20-25 Feb 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-reglamentacion-y-modelamiento-del-caudal-ecologico", "title": "Curso presencial y online de Reglamentaci\u00f3n y Modelamiento del Caudal Ecol\u00f3gico. 3-5 Mar 2017 "},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-sig-en-la-gestion-del-agua", "title": "Curso presencial y online de SIG en la Gesti\u00f3n del Agua, 6 - 11 Mar 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-transporte-de-contaminantes-con-modflow-y-mt3dms", "title": "Curso presencial y online de Modelamiento de Transporte de Contaminantes con MODFLOW y MT3DMS, 13 - 18 Mar 2017 "},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrologia-aplicada-con-hec-hms", "title": "Curso presencial y online de Hidrolog\u00eda Aplicada con HEC-HMS, 20 - 22 y 27, 29-30  Mar 2017 "},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-rios-con-hec-ras", "title": "Curso presencial y online de Modelamiento de R\u00edos con HEC-RAS"}
+{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrologia-aplicada-con-hec-hms", "title": "Curso presencial y online de Hidrolog\u00eda Aplicada con HEC-HMS, 3 - 8  Abr 2017 "}
 ]
 
     var tit_small = "";
