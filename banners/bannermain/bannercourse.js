@@ -4,7 +4,7 @@ var arr =
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-sig-en-la-gestion-del-agua", "title": "Curso presencial y online de SIG en la Gesti\u00f3n del Agua, 6 - 11 Mar 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-transporte-de-contaminantes-con-modflow-y-mt3dms", "title": "Curso presencial y online de Modelamiento de Transporte de Contaminantes con MODFLOW y MT3DMS, 13 - 18 Mar 2017 "},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrologia-aplicada-con-hec-hms", "title": "Curso presencial y online de Hidrolog\u00eda Aplicada con HEC-HMS, 3 - 8  Abr 2017 "},
-{"link": "http://www.gidahatari.com/ht-es/taller-online-de-modelamiento-del-caudal-ecologico-con-rs-minerve", "title": "Taller online de Modelamiento del Caudal Ecol\u00f3gico con Rs Minerve"},
+{"link": "http://www.gidahatari.com/ht-es/taller-online-de-modelamiento-del-caudal-ecologico-con-rs-minerve", "title": "Taller Online de Modelamiento Hidrol\u00f3gico para determinaci\u00f3n del Caudal Ecol\u00f3gico con Rs Minerve"},
 {"link": "http://www.gidahatari.com/ht-es/taller-gratuito-de-simulacion-dinamica-de-inundaciones-con-hec-ras-50", "title": "Taller online gratuito de simulaci\u00f3n din\u00e1mica de inundaciones con HEC-RAS 5.0 - 24 Feb 2017"}
 ]
 
