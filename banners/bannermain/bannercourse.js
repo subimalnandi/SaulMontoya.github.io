@@ -1,7 +1,5 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/ht-es/taller-online-gratuito-de-elaboracion-de-planos-en-qgis", "title": "Taller Online Gratuito de Elaboraci\u00f3n de Planos en QGIS - 12 Mar 2017"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-sig-en-la-gestion-del-agua", "title": "Curso presencial y online de SIG en la Gesti\u00f3n del Agua, 6 - 11 Mar 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-modelamiento-de-transporte-de-contaminantes-con-modflow-y-mt3dms", "title": "Curso presencial y online de Modelamiento de Transporte de Contaminantes con MODFLOW y MT3DMS, 13 - 18 Mar 2017 "},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrologia-aplicada-con-hec-hms", "title": "Curso presencial y online de Hidrolog\u00eda Aplicada con HEC-HMS, 3 - 8  Abr 2017 "}
 ]
