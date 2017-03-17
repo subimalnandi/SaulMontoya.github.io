@@ -1,0 +1,364 @@
+.gwd-body {
+    height: 500px;
+    margin: 0px;
+    padding: 0px;
+    background-image: -webkit-radial-gradient(ellipse closest-side, rgb(55, 125, 175) 0%, rgb(65, 135, 185) 100%);
+    background-image: -moz-radial-gradient(ellipse closest-side, rgb(55, 125, 175) 0%, rgb(65, 135, 185) 100%);
+    background-image: radial-gradient(ellipse closest-side, rgb(55, 125, 175) 0%, rgb(65, 135, 185) 100%);
+}
+
+.gwd-div-fcontent {
+    position: absolute;
+    font-family: Montserrat;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 80px;
+    top: 40px;
+    left: 50%;
+    -webkit-transform: translate3d(-75px, 0px, 0px);
+    -moz-transform: translate3d(-75px, 0px, 0px);
+    transform: translate3d(-75px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.gwd-div-talon {
+    position: absolute;
+    width: 220px;
+    height: 160px;
+    top: 340px;
+    left: 50%;
+    -webkit-transform: translate3d(-110px, 0px, 0px);
+    -moz-transform: translate3d(-110px, 0px, 0px);
+    transform: translate3d(-110px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.gwd-img-fondo {
+    position: absolute;
+    top: 0px;
+    opacity: 0;
+    height: 500px;
+    width: 220px;
+    left: 50%;
+    -webkit-transform: translate3d(-110px, 0px, 0px);
+    -moz-transform: translate3d(-110px, 0px, 0px);
+    transform: translate3d(-110px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.gwd-img-logoban {
+    position: absolute;
+    width: 200px;
+    left: 50%;
+    -webkit-transform: translate3d(-100px, -100px, 0px);
+    -moz-transform: translate3d(-100px, -100px, 0px);
+    transform: translate3d(-100px, -100px, 0px);
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    height: 200px;
+    top: 200px;
+    opacity: 0;
+}
+
+.gwd-div-titgr {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.gwd-div {
+    height: 30px;
+    width: 150px;
+}
+
+.gwd-contbold {
+    font-weight: bold;
+}
+
+.gwd-esp-int {
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    outline-color: rgb(255, 255, 255);
+    -webkit-column-rule-color: rgb(255, 255, 255);
+    -moz-column-rule-color: rgb(255, 255, 255);
+    column-rule-color: rgb(255, 255, 255);
+    -webkit-text-emphasis-color: rgb(255, 255, 255);
+    -moz-text-emphasis-color: rgb(255, 255, 255);
+    text-emphasis-color: rgb(255, 255, 255);
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    -moz-text-fill-color: rgb(255, 255, 255);
+    text-fill-color: rgb(255, 255, 255);
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    -moz-text-stroke-color: rgb(255, 255, 255);
+    text-stroke-color: rgb(255, 255, 255);
+}
+
+.gwd-pos-pri {top: 150px;}
+
+.gwd-pos-seg {top: 210px;}
+
+.gwd-pos-ter {top: 270px;}
+
+.gwd-pos-cua {top: 330px;}
+
+.gwd-pos-fin {top: 390px;}
+
+@-webkit-keyframes gwd-gen-con-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    53.84% {opacity: 0;}
+    61.92% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-con-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    53.84% {opacity: 0;}
+    61.92% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-con-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    53.84% {opacity: 0;}
+    61.92% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+.gwd-gen-con-animation {
+    -webkit-animation: gwd-gen-con-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-con-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-con-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+
+@-webkit-keyframes gwd-gen-fin-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    61.92% {opacity: 0;}
+    69.23% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-fin-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    61.92% {opacity: 0;}
+    69.23% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-fin-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    61.92% {opacity: 0;}
+    69.23% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+.gwd-gen-fin-animation {
+    -webkit-animation: gwd-gen-fin-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-fin-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-fin-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+@-webkit-keyframes gwd-gen-qui-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    30.77% {opacity: 0;}
+    38.47% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-qui-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    30.77% {opacity: 0;}
+    38.47% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-qui-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    30.77% {opacity: 0;}
+    38.47% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+.gwd-gen-qui-animation {
+    -webkit-animation: gwd-gen-qui-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-qui-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-qui-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+@-webkit-keyframes gwd-gen-cua-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    23.08% {opacity: 0;}
+    30.77% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-cua-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    23.08% {opacity: 0;}
+    30.77% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-cua-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    23.08% {opacity: 0;}
+    30.77% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+.gwd-gen-cua-animation {
+    -webkit-animation: gwd-gen-cua-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-cua-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-cua-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+@-webkit-keyframes gwd-gen-ter-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    15.39% {opacity: 0;}
+    23.08% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-ter-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    15.39% {opacity: 0;}
+    23.08% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-ter-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    15.39% {opacity: 0;}
+    23.08% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+.gwd-gen-ter-animation {
+    -webkit-animation: gwd-gen-ter-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-ter-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-ter-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+
+@-webkit-keyframes gwd-gen-seg-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    7.7% {opacity: 0;}
+    15.39% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-seg-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    7.7% {opacity: 0;}
+    15.39% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-seg-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    7.7% {opacity: 0;}
+    15.39% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+.gwd-gen-seg-animation {
+    -webkit-animation: gwd-gen-seg-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-seg-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-seg-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+
+@-webkit-keyframes gwd-gen-pri-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    7.7% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-pri-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    7.7% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-pri-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    7.7% {opacity: 1;}
+    46.15% {opacity: 1;}
+    53.84% {opacity: 0;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+.gwd-gen-pri-animation {
+    -webkit-animation: gwd-gen-pri-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-pri-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-pri-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
+
+@-webkit-keyframes gwd-gen-bac-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    46.15% {opacity: 0;}
+    61.93% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-moz-keyframes gwd-gen-bac-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    46.15% {opacity: 0;}
+    61.93% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes gwd-gen-bac-animation_gwd-keyframes {
+    0% {opacity: 0;}
+    46.15% {opacity: 0;}
+    61.93% {opacity: 1;}
+    84.62% {opacity: 1;}
+    92.31% {opacity: 0;}
+    100% {opacity: 0;}
+}
+.gwd-gen-bac-animation {
+    -webkit-animation: gwd-gen-bac-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    -moz-animation: gwd-gen-bac-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+    animation: gwd-gen-bac-animation_gwd-keyframes 26s linear 0s infinite normal forwards;
+}
