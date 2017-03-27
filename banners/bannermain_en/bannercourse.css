@@ -47,13 +47,13 @@ body {
     position: absolute;
     margin: 0px;
     padding: 0px;
-    width: 220px;
+    width: 250px;
     height: 160px;
     top: 340px;
     left: 50%;
-    -webkit-transform: translate3d(-110px, 0px, 0px);
-    -moz-transform: translate3d(-110px, 0px, 0px);
-    transform: translate3d(-110px, 0px, 0px);
+    -webkit-transform: translate3d(-125px, 0px, 0px);
+    -moz-transform: translate3d(-125px, 0px, 0px);
+    transform: translate3d(-125px, 0px, 0px);
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
@@ -61,13 +61,13 @@ body {
 
 .cub-div-polybajo {
     position: absolute;
-    width: 220px;
+    width: 250px;
     height: 80px;
     top: 420px;
     left: 50%;
-    -webkit-transform: translate3d(-110px, 0px, 0px);
-    -moz-transform: translate3d(-110px, 0px, 0px);
-    transform: translate3d(-110px, 0px, 0px);
+    -webkit-transform: translate3d(-125px, 0px, 0px);
+    -moz-transform: translate3d(-125px, 0px, 0px);
+    transform: translate3d(-125px, 0px, 0px);
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
