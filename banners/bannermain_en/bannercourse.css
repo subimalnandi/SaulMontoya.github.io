@@ -33,7 +33,7 @@ body {
     position: absolute;
     opacity: 0;
     height: 500px;
-    width: 220px;
+    width: 250px;
     left: 50%;
     -webkit-transform: translate3d(-110px, 0px, 0px);
     -moz-transform: translate3d(-110px, 0px, 0px);
