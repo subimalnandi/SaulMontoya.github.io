@@ -1,9 +1,4 @@
-var arr = 
-[
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrologia-aplicada-con-hec-hms", "title": "Curso presencial y online de Hidrolog\u00eda Aplicada con HEC-HMS, 03, 05, 07, 10, 12 y 14 Abr 2017 "},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrogeologia-en-mineria", "title": "Curso presencial y online de Hidrogeolog\u00eda en Miner\u00eda, Lima, 24-29 Abr 2017"},
-{"link": "http://www.gidahatari.com/ht-es/taller-online-gratuito-de-modelamiento-hidrologico-de-una-avenida-maxima-con-hec-hms-24-feb-2017", "title": "Taller Online Gratuito de Modelamiento Hidr\u00f3logico de una Avenida M\u00e1xima con HEC HMS  - 30 Mar 2017"}
-]
+
 
     var tit_small = "";
     var tit_large = "";

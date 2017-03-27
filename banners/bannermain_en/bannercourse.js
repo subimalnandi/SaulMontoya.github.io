@@ -1,8 +1,8 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrologia-aplicada-con-hec-hms", "title": "Curso presencial y online de Hidrolog\u00eda Aplicada con HEC-HMS, 03, 05, 07, 10, 12 y 14 Abr 2017 "},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrogeologia-en-mineria", "title": "Curso presencial y online de Hidrogeolog\u00eda en Miner\u00eda, Lima, 24-29 Abr 2017"},
-{"link": "http://www.gidahatari.com/ht-es/taller-online-gratuito-de-modelamiento-hidrologico-de-una-avenida-maxima-con-hec-hms-24-feb-2017", "title": "Taller Online Gratuito de Modelamiento Hidr\u00f3logico de una Avenida M\u00e1xima con HEC HMS  - 30 Mar 2017"}
+{"link": "http://www.hatarilabs.com/ht-en/2017/3/17/webminar-on-groundwater-modeling-with-modflow-and-model-muse-july-14-2016", "title": "Webminar on Groundwater Modeling with MODFLOW and Model Muse - June, 15 2017"},
+{"link": "http://www.hatarilabs.com/ht-en/2017/6/21/webminar-on-regional-groundwater-modeling-with-geology-on-modflow-and-model-muse-june-21-2017", "title": "Webminar on Regional Groundwater Modeling with Geology on MODFLOW and Model Muse - August, 15 2017"},
+{"link": "http://www.hatarilabs.com/ht-en/2017/9/15/webminar-open-source-software-for-groundwater-modeling-the-modflowqgis-stack-15-september-2017", "title": "Webminar: Open Source Software for Groundwater Modeling: The MODFLOW/QGIS Stack - 15 September 2017"}
 ]
 
     var tit_small = "";
