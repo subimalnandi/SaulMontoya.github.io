@@ -1,6 +1,5 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/ht-es/taller-online-de-calibracion-de-modelos-numericos-en-modflow-parte-2", "title": "Taller Online de Calibraci\u00f3n de Modelos Num\u00e9ricos en MODFLOW - Parte 2, 12 Abr 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-hidrogeologia-en-mineria", "title": "Curso presencial y online de Hidrogeolog\u00eda en Miner\u00eda, Lima, 24-29 Abr 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-python-en-hidrologia", "title": "Curso presencial y online de Python en Hidrolog\u00eda, 09, 11, 13, 16, 18 y 20 May 2017"}
 ]
