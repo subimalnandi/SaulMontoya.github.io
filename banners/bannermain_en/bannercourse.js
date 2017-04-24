@@ -1,5 +1,6 @@
 var arr = 
 [
+{"link": "http://www.hatarilabs.com/ht-en/webminar-on-satellite-imagery-analysis-with-qgis-may-10-2017", "title": "Webminar on Satellite Imagery Analysis with QGIS - May 10, 2017"},
 {"link": "http://www.hatarilabs.com/ht-en/2017/3/17/webminar-on-groundwater-modeling-with-modflow-and-model-muse-may-15-2017", "title": "Webminar on Groundwater Modeling with MODFLOW and Model Muse - May, 15 2017"},
 {"link": "http://www.hatarilabs.com/ht-en/2017/6/21/webminar-on-regional-groundwater-modeling-with-geology-on-modflow-and-model-muse-july-06-2017", "title": "Webminar on Regional Groundwater Modeling with Geology on MODFLOW and Model Muse - July, 6 2017"},
 {"link": "http://www.hatarilabs.com/ht-en/2017/9/15/webminar-open-source-software-for-groundwater-modeling-the-modflowqgis-stack-10-august-2017", "title": "Webminar: Open Source Software for Groundwater Modeling: The MODFLOW/QGIS Stack - 10 August 2017"}
