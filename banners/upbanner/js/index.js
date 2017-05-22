@@ -1,7 +1,6 @@
 var arr = 
 [
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-qgis-basico", "title": "Curso presencial y online de QGIS b\u00e1sico.  22, 24, 25, 27, 29 y 31 May 2017"},
-{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-reglamentacin-de-derechos-de-uso-y-permisos-del-agua-y-planes-integrales-de-adaptacin-a-los-ecas-y-lmps-12-14-16-19-21-y-23-jun-2017", "title": "Curso presencial y online de Reglamentaci\u00f3n de Permisos del Agua y Planes Integrales de Adaptaci\u00f3n a los ECAs y LMPs, 12 al 23 Jun 2017"},
+{"link": "http://www.gidahatari.com/cu-dt/curso-de-reglamentacion-de-permisos-del-agua-y-planes-integrales-de-adaptacion-a-los-ecas-y-lmps", "title": "Curso presencial y online de Reglamentaci\u00f3n de Permisos del Agua y Planes Integrales de Adaptaci\u00f3n a los ECAs y LMPs, 12 al 23 Jun 2017"},
 {"link": "http://www.gidahatari.com/cu-dt/curso-de-implementacion-de-sensores-ambientales-continuos-con-raspberry-pi-3-y-arduino", "title": "Curso presencial y online de Implementaci\u00f3n de Sensores Ambientales Cont\u00ednuos con Raspberry Pi 3 y Arduino, 09 - 14 Oct 2017"}
 ]
 
