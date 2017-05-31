@@ -1,6 +1,7 @@
 var arr = 
 [
 {"link": "http://www.gidahatari.com/cu-dt/curso-de-reglamentacion-de-permisos-del-agua-y-planes-integrales-de-adaptacion-a-los-ecas-y-lmps", "title": "Curso presencial y online de Reglamentaci\u00f3n de Permisos del Agua y Planes Integrales de Adaptaci\u00f3n a los ECAs y LMPs, 12 al 23 Jun 2017"},
+{"link": "http://www.gidahatari.com/cu-dt/curso-presencial-y-online-de-introduccion-a-la-hidroquimica-y-modelamiento-hidroquimico-con-phreeqc", "title": "Curso presencial y online de Introducci\u00f3n a la Hidroquimica y Modelamiento Hidroquimico con PHREEQC, 26, 28, 30 Jun y 03, 05, 07 Jul 2017 "},
 {"link": "http://www.gidahatari.com/cu-dt/curso-de-implementacion-de-sensores-ambientales-continuos-con-raspberry-pi-3-y-arduino", "title": "Curso presencial y online de Implementaci\u00f3n de Sensores Ambientales Cont\u00ednuos con Raspberry Pi 3 y Arduino, 09 - 14 Oct 2017"}
 ]
 
